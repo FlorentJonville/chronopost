@@ -1073,5 +1073,4 @@ class Chronopost extends CarrierModule
 		return $this->context->smarty->fetch(dirname(__FILE__).'/views/templates/admin/config.tpl');
 	}
 }
-
 ?>
